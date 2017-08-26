@@ -1,2 +1,2 @@
 # espDevBoard
-a development board using esp8266-12 e
+a development board using esp8266-12e (untested)
